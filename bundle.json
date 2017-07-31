@@ -1,0 +1,40 @@
+{
+  "nested": {
+    "msg": {
+      "nested": {
+        "Msg1": {
+          "fields": {
+            "field1": {
+              "type": "string",
+              "id": 1
+            },
+            "field2": {
+              "type": "int32",
+              "id": 2
+            },
+            "field3": {
+              "type": "string",
+              "id": 3
+            }
+          }
+        },
+        "Msg2": {
+          "fields": {
+            "field4": {
+              "type": "int32",
+              "id": 1
+            },
+            "field5": {
+              "type": "string",
+              "id": 2
+            },
+            "field6": {
+              "type": "string",
+              "id": 3
+            }
+          }
+        }
+      }
+    }
+  }
+}

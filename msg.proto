@@ -1,0 +1,14 @@
+syntax = "proto3";
+package msg;
+
+message Msg1 {
+    string field1 = 1;
+    int32 field2 = 2;
+    string field3 = 3;
+}
+
+message Msg2 {
+    int32 field4 = 1;
+    string field5 = 2;
+    string field6 = 3;
+}
